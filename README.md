@@ -13,4 +13,4 @@ Python, C++, FastAPI, PyTorch, LangChain, FAISS, Pinecone, Docker, GCP
 This profile is a record of ongoing work. Repositories contain documentation and runnable code.
 
 Contact: 
-goyaladitya070@gmail.com
+goyaladitya2403@gmail.com
