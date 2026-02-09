@@ -10,7 +10,7 @@ Current focus
 Stack: 
 Python, C++, FastAPI, PyTorch, LangChain, FAISS, Pinecone, Docker, GCP
 
-This profile is a record of ongoing work. Repositories contain documentation and runnable code.
+This profile is a record of ongoing work. Repositories contain documentation and code.
 
 Contact: 
 goyaladitya2403@gmail.com
