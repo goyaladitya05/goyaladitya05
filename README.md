@@ -1,16 +1,13 @@
-## Hi there 👋
+Aditya Goyal
 
-<!--
-**goyaladitya05/goyaladitya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pre final year B.Tech student working on applied machine learning systems and backend infrastructure.
 
-Here are some ideas to get you started:
+Current focus
+- LLM based retrieval and question answering systems
+- Federated learning and communication efficient training
+- Model deployment with Docker and cloud platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack: 
+Python, C++, FastAPI, PyTorch, LangChain, FAISS, Docker, GCP 
+
+This profile is a record of ongoing work. Repositories contain documentation and runnable code. Please note that some repos might not be publically accessible, as it is a work in progress.
