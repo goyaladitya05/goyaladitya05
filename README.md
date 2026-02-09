@@ -7,7 +7,7 @@ Current focus
 - Federated learning and communication efficient training
 - Model deployment with Docker and cloud platforms
 
-Stack: 
-Python, C++, FastAPI, PyTorch, LangChain, FAISS, Docker, GCP 
+Stack
+Python, C++, FastAPI, PyTorch, LangChain, FAISS, Pinecone, Docker, GCP
 
-This profile is a record of ongoing work. Repositories contain documentation and runnable code. Please note that some repos might not be publically accessible, as it is a work in progress.
+This profile is a record of ongoing work. Repositories contain documentation and runnable code.
