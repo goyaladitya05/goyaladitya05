@@ -15,7 +15,7 @@
 
 <br>
 
-## Open Source Work
+## Open Source Contributions
 
 ### Google Summer of Code 26' Contributor - Intel OpenVINO
 Extending the LTX text-to-video pipeline with image-to-video generation, enabling video synthesis conditioned on an input image and text prompt. Implementing full C++ and Python API support, throughput/latency benchmarking, and a test suite ensuring consistency across both implementations.
@@ -23,8 +23,8 @@ Extending the LTX text-to-video pipeline with image-to-video generation, enablin
 ### Keras 3 - [keras-team/keras](https://github.com/keras-team/keras)
 Working on bringing the OpenVINO backend for Keras 3 to functional parity with the other backends — implementing operators that were missing for OpenVINO, cutting down excluded tests along the way, and now extending the same work to `keras-hub`. Also reported a handful of upstream bugs in OpenVINO found while doing this.
 
-### OpenVINO GenAI - [openvinotoolkit/openvino.genai](https://github.com/openvinotoolkit/openvino.genai)
-Added LoRA adapter support for GGUF-format models, extending what was previously safetensors-only, and brought LoRA support to the Text2Video (LTX-Video) pipeline, including fixes for adapter persistence across model reshapes and a Python API for setting adapters. Also added per-stage latency metrics for the LLM and Whisper pipelines, and fixed a missing opset re-export bug.
+### OpenVINO Toolkit - [openvinotoolkit/openvino.genai](https://github.com/openvinotoolkit)
+Added LoRA adapter support for GGUF-format models, extending what was previously safetensors-only, and brought LoRA support to the Text2Video (LTX-Video) pipeline, including fixes for adapter persistence across model reshapes and a Python API for setting adapter. Also added per-stage latency metrics for the LLM and Whisper pipelines, and fixed a missing opset re-export bug.
 
 ### LLVM (clang-format)
 Added environment variable support to `git-clang-format` for incremental formatting in CI, so large codebases can adopt formatting without noisy full-file diffs. Started as a small standalone tool, later contributed upstream into LLVM.
