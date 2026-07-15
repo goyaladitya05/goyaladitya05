@@ -1,5 +1,4 @@
 <h1 align="center">Aditya Goyal</h1>
-<p align="center">B.Tech. Computer &amp; Communication Engineering, Manipal Institute of Technology</p>
 <p align="center">Working on ML infrastructure and developer tooling </p>
 
 <p align="center">
