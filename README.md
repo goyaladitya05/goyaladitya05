@@ -25,9 +25,6 @@ Working on bringing the OpenVINO backend for Keras 3 to functional parity with t
 ### OpenVINO Toolkit - [openvinotoolkit/openvino.genai](https://github.com/openvinotoolkit)
 Added LoRA adapter support for GGUF-format models, extending what was previously safetensors-only, and brought LoRA support to the Text2Video (LTX-Video) pipeline, including fixes for adapter persistence across model reshapes and a Python API for setting adapter. Also added per-stage latency metrics for the LLM and Whisper pipelines, and fixed a missing opset re-export bug.
 
-### LLVM (clang-format)
-Added environment variable support to `git-clang-format` for incremental formatting in CI, so large codebases can adopt formatting without noisy full-file diffs. Started as a small standalone tool, later contributed upstream into LLVM.
-
 <br>
 
 ## Projects
