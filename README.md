@@ -27,17 +27,6 @@ Added LoRA adapter support for GGUF-format models, extending what was previously
 
 <br>
 
-## Projects
-
-### CanIRunIt
-A web tool that checks whether a given HuggingFace model will fit on your hardware — estimating storage and VRAM across quantization formats (FP32, FP16, INT4, GGUF, and others) and checking compatibility against consumer GPUs, cloud instances, and Apple Silicon before you download anything.
-
-### RAG-Based LLM Query–Retrieval System
-`FastAPI` · `PyTorch` · `FAISS` · `LangChain`
-A retrieval-augmented generation system for querying documents — semantic search via FAISS, context-aware answers via LLMs, and some work on making it fast (async + batching) and reliable under load.
-
-<br>
-
 ## Contact
 
 <p align="left">
